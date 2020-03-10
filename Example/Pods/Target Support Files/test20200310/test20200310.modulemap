@@ -1,0 +1,6 @@
+framework module test20200310 {
+  umbrella header "test20200310-umbrella.h"
+
+  export *
+  module * { export * }
+}
